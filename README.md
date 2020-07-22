@@ -2,6 +2,10 @@
 I am currently not active in GitHub community,
 You can find some of my pet projects like [AnimuDownloaderu](https://github.com/codingotaku/Animu-Downloaderu), [Anime Crawler API](https://github.com/codingotaku/AnimeCrawlerAPI) here. Yes, all are mostly related to Anime and Manga.
 
+My website: 🌐 https://codingotaku.com 
+
+My Blog: 📚 https://blog.codingotaku.com 
+
 - 🔭 I try to promote FOSS in my free time- through videos and blogs, your contribution might help me do this more regularly!
 - 📫 Reach me through e-mail for anything 😄: contact@codingotaku.com
 
