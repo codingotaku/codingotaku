@@ -11,7 +11,7 @@ My Blog: 📚 https://blog.codingotaku.com
 
 <a href="https://liberapay.com/codingotaku/donate" target="_blank"> ![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)</a>
 <a href="https://paypal.me/otakucoding" target="_blank"> ![Donate with PayPal button](https://codingotaku.com/icons/paypal_donate.gif) </a>
-<a href="https://www.patreon.com/bePatron?u=13678963" data-patreon-widget-type="become-patron-button"> ![Become A Patron](https://c5.patreon.com/external/logo/become_a_patron_button@2x.png)</a>
+<a href="https://www.patreon.com/bePatron?u=13678963" data-patreon-widget-type="become-patron-button"> <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become A Patron" width="100"/></a>
 
 ![member of Free Sotware Foundation Since July 2020](https://static.fsf.org/nosvn/associate/crm/5009114.png)
 <!--
