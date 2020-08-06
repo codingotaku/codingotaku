@@ -7,7 +7,7 @@ My website: 🌐 https://codingotaku.com
 My Blog: 📚 https://blog.codingotaku.com 
 
 - 🔭 I try to promote FOSS in my free time- through videos and blogs, your contribution might help me do this more regularly!
-- 📫 Reach me through e-mail for anything 😄: contact@codingotaku.com
+- 📫 Reach me through e-mail for anything 😄: contact@codingotaku.com or codingotaku@member.fsf.org
 
 <a href="https://liberapay.com/codingotaku/donate" target="_blank"> ![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)</a>
 <a href="https://paypal.me/otakucoding" target="_blank"> ![Donate with PayPal button](https://codingotaku.com/icons/paypal_donate.gif) </a>
