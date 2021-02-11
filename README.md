@@ -5,9 +5,8 @@ You can find most of my pet projects here, I'll keep updating them until I compl
 
 
 - 🔭 I try to promote FOSS in my free time- through videos and blogs, your contribution might help me do this more regularly!
-- 📫 Reach me through e-mail for anything : contact@codingotaku.com or codingotaku@member.fsf.org
+- 📫 Reach me through e-mail for anything : contact@codingotaku.com
 - 🌐 Website https://codingotaku.com
-- 📚 Blog https://blog.codingotaku.com
 
 
 ### Some Useless Stats
