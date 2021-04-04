@@ -1,5 +1,5 @@
 ### Hi there fellow otakus👋
-I am currently not active in GitHub community as I am migrating to [GitLab](https://gitlab.com/codingotaku) and [Codeberg](https://codeberg.org/codingotaku). 
+I am currently not active in GitHub community as I am migrating to [Codeberg](https://codeberg.org/codingotaku). 
 
 You can find most of my pet projects here, I'll keep updating them until I completely move out. (The repos will remain here for a bit more in "archived" mode) 
 
